@@ -1,8 +1,9 @@
-# Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
-Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
-Aim:
+## Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
+
+## Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
-Procedure
+
+## Procedure
 a)	Steps to Create a first S3 Bucket:
 Step 1: Sign in to the AWS Management Console
 Go to https://console.aws.amazon.com/s3.
@@ -48,40 +49,20 @@ d)	Steps to Clean Up (Terminate the Instance)
 2.	Select your instance → Instance State → Terminate.
 
 
-Snap Shots:
+## Snap Shots:
  
 
 Snap Shot 1: Simple Storage Service (S3)
  
+<img width="1004" height="539" alt="image" src="https://github.com/user-attachments/assets/760b07e3-f349-420e-a1a8-b40de81ca33a" />
+
 
 Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
 
+<img width="981" height="583" alt="image" src="https://github.com/user-attachments/assets/ab5becc3-77f4-43ff-bc58-0d3266ff8879" />
 
+EC2 (Elastic Compute Cloud) – Instance
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Result:
+## Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
  
